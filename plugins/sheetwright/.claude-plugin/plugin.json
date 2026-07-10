@@ -1,0 +1,13 @@
+{
+  "name": "sheetwright",
+  "version": "1.0.0",
+  "description": "Create, edit and format Google Sheets natively via the official Google API — colors, currency, native Tables with dropdowns, HYPERLINK formulas to Drive files, and locale-aware behavior. Not flat CSV.",
+  "author": {
+    "name": "Miguel Angel Haluza",
+    "url": "https://github.com/mahaluza"
+  },
+  "homepage": "https://github.com/mahaluza/sheetwright",
+  "repository": "https://github.com/mahaluza/sheetwright",
+  "license": "MIT",
+  "keywords": ["google-sheets", "spreadsheets", "google-drive", "formatting", "hyperlink", "tables", "locale", "gsheets", "budgets", "invoices"]
+}

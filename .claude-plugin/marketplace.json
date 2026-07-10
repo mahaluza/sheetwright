@@ -1,0 +1,17 @@
+{
+  "name": "haluza",
+  "owner": {
+    "name": "Miguel Angel Haluza",
+    "url": "https://github.com/mahaluza"
+  },
+  "metadata": {
+    "description": "Tools by Miguel Angel Haluza. Home of Sheetwright — native Google Sheets for Claude."
+  },
+  "plugins": [
+    {
+      "name": "sheetwright",
+      "source": "./plugins/sheetwright",
+      "description": "Native Google Sheets for Claude: real formatting, native Tables with dropdowns, HYPERLINK to Drive files, and locale awareness. Works with personal Gmail and Workspace accounts."
+    }
+  ]
+}
