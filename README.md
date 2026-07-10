@@ -60,8 +60,10 @@ step by step — just ask it to "set up Sheets access". The full runbook is in
 ## User manual
 
 A full illustrated user manual (why it exists, how it works, step-by-step setup with screenshots,
-day-to-day use, locale & languages, security) is in
-[`docs/Sheetwright_User_Manual.pdf`](docs/Sheetwright_User_Manual.pdf) (also available as `.docx`).
+day-to-day use, locale & languages, security) is available in two languages, each as PDF and Word:
+
+- **English** — [`docs/Sheetwright_User_Manual_EN.pdf`](docs/Sheetwright_User_Manual_EN.pdf) ([.docx](docs/Sheetwright_User_Manual_EN.docx))
+- **Español** — [`docs/Sheetwright_Manual_Usuario_ES.pdf`](docs/Sheetwright_Manual_Usuario_ES.pdf) ([.docx](docs/Sheetwright_Manual_Usuario_ES.docx))
 
 ## Security & privacy
 
