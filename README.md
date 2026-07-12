@@ -65,6 +65,13 @@ day-to-day use, locale & languages, security) is available in two languages, eac
 - **English** — [`docs/Sheetwright_User_Manual_EN.pdf`](docs/Sheetwright_User_Manual_EN.pdf) ([.docx](docs/Sheetwright_User_Manual_EN.docx))
 - **Español** — [`docs/Sheetwright_Manual_Usuario_ES.pdf`](docs/Sheetwright_Manual_Usuario_ES.pdf) ([.docx](docs/Sheetwright_Manual_Usuario_ES.docx))
 
+### Team install guide
+
+A short illustrated guide for installing Sheetwright in Claude Cowork (once per computer), in two languages:
+
+- **English** — [`docs/Sheetwright_Install_Guide_EN.pdf`](docs/Sheetwright_Install_Guide_EN.pdf) ([.docx](docs/Sheetwright_Install_Guide_EN.docx))
+- **Español** — [`docs/Sheetwright_Guia_Instalacion_ES.pdf`](docs/Sheetwright_Guia_Instalacion_ES.pdf) ([.docx](docs/Sheetwright_Guia_Instalacion_ES.docx))
+
 ## Security & privacy
 
 Your credentials are equivalent to a password and stay in a private local folder you control.
